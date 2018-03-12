@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProgramExecutor</string>
+    <string name="runbuttontext">Run Program</string>
+    <string name="outputPlaceHolder">Your Output will be here</string>
+</resources>
